@@ -1,0 +1,1 @@
+erl -pa /Users/vichenka/Documents/Riak/riak-erlang-client/ebin/ /Users/vichenka/Documents/Riak/riak-erlang-client/deps/*/ebin
